@@ -1,0 +1,22 @@
+Build and deploy a modern web 3.0 blockchain - javamastery
+
+Vite
+- npm init vite@latest
+project name = ./
+package name = krypt
+framework = react - react
+npm install
+npm run dev
+
+Tailwindcss
+- npm install -D tailwindcss postcss autoprefixer
+- npx tailwindcss init
+- comply template
+- add directives to bottom of index.css (not replace)
+- modify app.jsx
+
+Smart contract
+- npm init -y
+
+React Dependencies
+- npm install react-icons ethers
