@@ -20,3 +20,11 @@ Smart contract
 
 React Dependencies
 - npm install react-icons ethers
+
+Hardhat
+- npx hardhat
+- basic, root, git ignore
+- npx hardhat test
+
+Deploy tools
+Alchemyapi.io on Ropsten
